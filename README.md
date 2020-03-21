@@ -4,9 +4,9 @@ A full stack project with React and Node. It has been deployed here: https://eni
 # Tech Stack
 <ul>
 <li>User Signup: Express Server + MongoDB + PassportJS</li>
-User Payment: Stripe + MongoDB
-User Create Survey: React + Redux
-User Enter Emails: React + Redux + Redux Form
-We Send Emails: Email Provider (SendGrid)
-Surveyees Click Links: SendGrid + Express + MongoDB
+<li>User Payment: Stripe + MongoDB</li>
+<li>User Create Survey: React + Redux</li>
+<li>User Enter Emails: React + Redux + Redux Form</li>
+<li>We Send Emails: Email Provider (SendGrid)</li>
+<li>Surveyees Click Links: SendGrid + Express + MongoDB</li>
 </ul>
